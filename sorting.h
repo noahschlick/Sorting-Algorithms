@@ -1,9 +1,4 @@
 //
-//  sorting.h
-//  Project3_sorting
-//
-//  Created by Noah Schlickeisen on 3/8/21.
-//  CS 3358 Data Structures and Algorithms (Section 3358-256)
 //
 //
 // This file has a series of functions containing sorting
